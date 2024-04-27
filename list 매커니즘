@@ -1,0 +1,3 @@
+var shoppingList = ["Bread", "Milk"]
+shoppingList.append("Flour")
+print(shoppingList)
